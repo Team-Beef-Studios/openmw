@@ -1,6 +1,6 @@
 # OpenMW Standalone VR
 
-[![OpenMW-XR Standalone VR (Meta Quest 3) Proof of Life](<img width="853" height="480" alt="image" src="https://github.com/user-attachments/assets/83f870a2-ebce-4f22-9ee7-f5d3d20d9d6c" />)](https://www.youtube.com/watch?v=39rUsiT9f3E)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/39rUsiT9f3E?si=zIfQNT5bVMVeWfBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Background
 
