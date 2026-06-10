@@ -1,5 +1,7 @@
 # OpenMW Standalone VR
 
+[![OpenMW-XR Proof of Life Meta Quest 3](https://img.youtube.com/vi/39rUsiT9f3E/maxresdefault.jpg)](https://www.youtube.com/watch?v=39rUsiT9f3E)
+
 ## Background
 
 Some time ago, we ran a community poll asking which classic game people most wanted to see brought to standalone VR. The clear winner was **The Elder Scrolls III: Morrowind**, courtesy of the OpenMW project.
